@@ -1,0 +1,6 @@
+framework module Pods_OceanTreasures {
+  umbrella header "Pods-OceanTreasures-umbrella.h"
+
+  export *
+  module * { export * }
+}

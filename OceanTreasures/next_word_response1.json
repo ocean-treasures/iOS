@@ -1,0 +1,31 @@
+{
+    "progress": {
+        "current": 5,
+        "max": 10
+    },
+    "word": {
+        "id": 3,
+        "word": "banana"
+    },
+    "pictures":[
+    {
+        "url": "http://pngimg.com/uploads/apple/apple_PNG12405.png",
+        "id": 1,
+		"containsFullURL" : true
+    },
+    {
+        "url": "http://pngimg.com/uploads/pear/pear_PNG3449.png",
+         "id": 2,
+		 "containsFullURL" : true
+    },
+    {
+        "url": "http://www.freeiconspng.com/uploads/banana-png-9.png",
+        "id": 3,
+		"containsFullURL" : true
+    },
+    {
+        "url": "http://www.pngmart.com/files/3/Watermelon-PNG-Photos.png",
+        "id": 4,
+		"containsFullURL" : true
+    }]
+}

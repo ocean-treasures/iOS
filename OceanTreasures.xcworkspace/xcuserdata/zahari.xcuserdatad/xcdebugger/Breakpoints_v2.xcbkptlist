@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OceanTreasures/ViewController.swift"
+            timestampString = "522842677.953327"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OceanTreasures.ViewController.progressBar.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIProgressView&gt;"
+                  moduleName = "OceanTreasures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zahari/Desktop/OceanTreasures/OceanTreasures/ViewController.swift"
+                  timestampString = "522842681.533341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OceanTreasures.ViewController.progressBar.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIProgressView&gt;"
+                  moduleName = "OceanTreasures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zahari/Desktop/OceanTreasures/OceanTreasures/ViewController.swift"
+                  timestampString = "522842681.536738"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OceanTreasures.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; OceanTreasures.ViewController"
+                  moduleName = "OceanTreasures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zahari/Desktop/OceanTreasures/OceanTreasures/ViewController.swift"
+                  timestampString = "522842681.539082"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "401">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OceanTreasures.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;OceanTreasures.ViewController&gt;"
+                  moduleName = "OceanTreasures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zahari/Desktop/OceanTreasures/OceanTreasures/ViewController.swift"
+                  timestampString = "522842681.541306"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "294">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OceanTreasures/AnswerViewController.swift"
+            timestampString = "523203132.254287"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "setupValues(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OceanTreasures/NextWordResponse.swift"
+            timestampString = "523199971.795289"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
